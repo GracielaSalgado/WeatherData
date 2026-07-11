@@ -38,6 +38,27 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you added to improve the site's functionality!
 
+## Part 2: Data Visualizations & Detail Views
+
+The following **required** functionality is completed:
+
+- [x] **Clicking on an item in the list view displays more details about it**
+- [x] **Clicking on an item in the dashboard list navigates to the detail view for that item**
+- [x] **Detail view includes extra information not included in the dashboard view**
+  - Feels-like temperature, wind direction (compass + degrees), pressure, cloud cover, precipitation, and day/night status
+- [x] **The same sidebar is displayed in detail view as in dashboard view**
+- [x] **Each detail view of an item has a direct, unique link to that item's page** (e.g. `/city/tokyo`)
+- [x] **The app includes at least two unique charts developed using the fetched data that tell an interesting story**
+  - A bar chart of temperature by city and a donut chart of condition distribution across cities
+- [x] **At least two charts are incorporated into the dashboard view of the site**
+- [x] **Each chart describes a different aspect of the dataset**
+
+The following **stretch** features are implemented:
+
+- [x] The customized dashboard contains more content that explains what is interesting about the data
+  - The detail view includes a "vs. Global Average" diverging bar chart comparing a city's temperature, humidity, and wind speed to the average across all cities
+- [ ] The site allows users to toggle between different data visualizations
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
